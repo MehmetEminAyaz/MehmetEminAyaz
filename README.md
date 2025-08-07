@@ -1,5 +1,5 @@
 ```text
-A Little Bit About Me
+Hello,A Little Bit About Me
 
 name: "Mehmet Emin AYAZ"
 located_in: "Ankara, Turkey"
@@ -8,7 +8,8 @@ education:
 [
   "B.Sc. in Computer Engineering, Gazi University"
 ]
-who_am_i: "I’m a full-stack learner with a leaning towards backend development, applying new skills through hands-on projects and always eager to improve."
+who_am_i: "I’m a full-stack learner with a leaning towards backend development,
+ applying new skills through hands-on projects and always eager to improve."
 tech_stack:
 [
   "Java",
@@ -24,7 +25,3 @@ tech_stack:
   "Git"
 ]
 ```  
-
-## 📊 Languages by Repo
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEminAYAZ&layout=compact&langs_count=8)
