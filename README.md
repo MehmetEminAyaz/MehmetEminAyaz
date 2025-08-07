@@ -1,16 +1,30 @@
-## Hi there 👋
+```text
+A Little Bit About Me
 
-<!--
-**MehmetEminAyaz/MehmetEminAyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: "Mehmet Emin AYAZ"
+located_in: "Ankara, Turkey"
+current_status: "Final-year Computer Engineering Student & Aspiring Software Developer"
+education:
+[
+  "B.Sc. in Computer Engineering, Gazi University"
+]
+who_am_i: "I’m a full-stack learner with a leaning towards backend development, applying new skills through hands-on projects and always eager to improve."
+tech_stack:
+[
+  "Java",
+  "Spring Boot",
+  "React",
+  "Kotlin",
+  "PostgreSQL",
+  "Docker",
+  "HTML",
+  "CSS",
+  "Python",
+  "JavaScript",
+  "Git"
+]
+```  
 
-Here are some ideas to get you started:
+## 📊 Languages by Repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEminAYAZ&layout=compact&langs_count=8)
